@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yusuf Öztürk aka. @yusufo7turk
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning ML and DL 
+- 📫 How to reach me yusuf.ozturk70198@gmail.com
