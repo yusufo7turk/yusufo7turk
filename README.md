@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yusuf Öztürk aka. @yusufo7turk
+- 👋 Hi, I’m Yusuf Öztürk
 - 👀 I’m interested in Data Science and IoT Technologies
 - 🌱 I’m currently learning ML and DL 
 - 📫 How to reach me twitter.com/yo7turk
